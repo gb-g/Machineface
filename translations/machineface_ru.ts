@@ -19,8 +19,20 @@
         <translation>Меню</translation>
     </message>
     <message>
+        <source>&amp;Disconnect</source>
+        <translation type="vanished">Отключить</translation>
+    </message>
+    <message>
         <source>&amp;About Machineface</source>
         <translation>О Machineface</translation>
+    </message>
+    <message>
+        <source>Sh&amp;utdown</source>
+        <translation type="vanished">Завершить работу</translation>
+    </message>
+    <message>
+        <source>E&amp;xit</source>
+        <translation type="vanished">Выйти</translation>
     </message>
     <message>
         <source>&amp;Disconnect from Session</source>
@@ -131,6 +143,13 @@
     </message>
 </context>
 <context>
+    <name>JogVelocityKnob</name>
+    <message>
+        <source>Set %1 axis velocity</source>
+        <translation>установить скорость по оси %1</translation>
+    </message>
+</context>
+<context>
     <name>LightControl</name>
     <message>
         <source>Pick Color</source>
@@ -198,6 +217,13 @@
     <message>
         <source>N/A</source>
         <translation>н.д.</translation>
+    </message>
+</context>
+<context>
+    <name>ToggleSettingCheck</name>
+    <message>
+        <source>Group Value</source>
+        <translation type="vanished">Значение группы</translation>
     </message>
 </context>
 <context>

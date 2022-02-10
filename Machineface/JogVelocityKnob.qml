@@ -20,7 +20,7 @@ JogKnob {
     }
 
     TooltipArea {
-        text: qsTr("Set " + axis + " axis velocity")
+        text: qsTr("Set %1 axis velocity").arg(axis)
         interval: 1000
     }
 }

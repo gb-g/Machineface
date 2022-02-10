@@ -1,120 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="es_ES">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Machineface</source>
-        <translation>Sobre Machineface</translation>
+        <source>Close</source>
+        <translation>关闭</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Cerrar</translation>
+        <source>About Machineface</source>
+        <translation>关于机器</translation>
     </message>
 </context>
 <context>
     <name>ApplicationMenu</name>
     <message>
         <source>Menu</source>
-        <translation>Menú</translation>
+        <translation>菜单</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation type="vanished">Desconectar</translation>
-    </message>
-    <message>
-        <source>Sh&amp;utdown</source>
-        <translation type="vanished">Apagar</translation>
-    </message>
-    <message>
-        <source>E&amp;xit</source>
-        <translation type="vanished">Salir</translation>
-    </message>
-    <message>
-        <source>&amp;Disconnect from Session</source>
-        <translation>Desconectar sesión</translation>
+        <translation type="vanished">&amp;断开</translation>
     </message>
     <message>
         <source>&amp;About Machineface</source>
-        <translation>Sobre Machineface</translation>
+        <translation>关于机器界面</translation>
+    </message>
+    <message>
+        <source>Sh&amp;utdown</source>
+        <translation type="vanished">关掉</translation>
+    </message>
+    <message>
+        <source>E&amp;xit</source>
+        <translation type="vanished">退出</translation>
+    </message>
+    <message>
+        <source>&amp;Disconnect from Session</source>
+        <translation>与会话断开</translation>
     </message>
     <message>
         <source>Sh&amp;utdown Session</source>
-        <translation>Cerrar sesión</translation>
+        <translation>关掉会话</translation>
     </message>
     <message>
         <source>E&amp;xit User Interface</source>
-        <translation>Terminar interfaz de usuario</translation>
+        <translation>退出用户界面</translation>
     </message>
 </context>
 <context>
     <name>ButtonJog</name>
     <message>
         <source>Move </source>
-        <translation>Mover </translation>
+        <translation>移动 </translation>
     </message>
     <message>
         <source> and </source>
-        <translation> y </translation>
+        <translation> 和 </translation>
     </message>
     <message>
         <source> axis to 0</source>
-        <translation> eje a 0</translation>
+        <translation> 轴到0</translation>
     </message>
     <message>
         <source>Select axis action</source>
-        <translation>Elegir eje</translation>
+        <translation>选择轴动作</translation>
     </message>
     <message>
         <source>Select Action</source>
-        <translation>Elegir eje</translation>
+        <translation>选择动作</translation>
     </message>
     <message>
         <source>Touch off </source>
-        <translation>Apagar tactil </translation>
+        <translation>触发 </translation>
     </message>
     <message>
         <source> axis</source>
-        <translation> eje</translation>
+        <translation> 轴</translation>
     </message>
     <message>
         <source>Change extruder</source>
-        <translation>Cambiar extrusor</translation>
+        <translation>换喷头</translation>
     </message>
     <message>
         <source>Select extruder</source>
-        <translation>Elegir extrusor</translation>
+        <translation>选择喷头</translation>
     </message>
     <message>
         <source>Extruder </source>
-        <translation>Extrusor </translation>
+        <translation>挤出头 </translation>
     </message>
     <message>
         <source>Velocity</source>
-        <translation>Velocidad</translation>
+        <translation>速度</translation>
     </message>
 </context>
 <context>
     <name>DisplayPanel</name>
     <message>
         <source>Heated Bed</source>
-        <translation>Placa caliente</translation>
+        <translation>加热床</translation>
     </message>
     <message>
         <source>Heated Chamber</source>
-        <translation>Cámera calentada</translation>
+        <translation>加热仓</translation>
     </message>
     <message>
         <source>Extruder %1</source>
-        <translation>Extrusor %1</translation>
-    </message>
-    <message>
-        <source>Fan %1</source>
-        <translation>Ventilador %1</translation>
+        <translation>挤出头 %1</translation>
     </message>
     <message>
         <source>Light %1</source>
-        <translation>Luz %1</translation>
+        <translation>光 %1</translation>
+    </message>
+    <message>
+        <source>Fan %1</source>
+        <translation>风扇 %1</translation>
     </message>
 </context>
 <context>
@@ -128,39 +128,39 @@
     <name>GantryConfigControl</name>
     <message>
         <source>Left offset:</source>
-        <translation>Desplazamiento izquierda:</translation>
+        <translation>左偏移:</translation>
     </message>
     <message>
         <source>Right offset:</source>
-        <translation>Desplazamiento derecha:</translation>
+        <translation>右偏移:</translation>
     </message>
 </context>
 <context>
     <name>JogControlTab</name>
     <message>
         <source>Jog</source>
-        <translation>Jog</translation>
+        <translation>微动</translation>
     </message>
 </context>
 <context>
     <name>JogVelocityKnob</name>
     <message>
         <source>Set %1 axis velocity</source>
-        <translation>Ajustar velocidad del eje %1</translation>
+        <translation>设置%1轴速度</translation>
     </message>
 </context>
 <context>
     <name>LightControl</name>
     <message>
         <source>Pick Color</source>
-        <translation>Elegir color</translation>
+        <translation>挑选颜色</translation>
     </message>
 </context>
 <context>
     <name>MdiTab</name>
     <message>
         <source>MDI</source>
-        <translation>MDI</translation>
+        <translation>手动数据输入</translation>
     </message>
 </context>
 <context>
@@ -174,94 +174,94 @@
     <name>PreviewTab</name>
     <message>
         <source>Preview</source>
-        <translation>Vista Previa</translation>
+        <translation>预览</translation>
     </message>
 </context>
 <context>
     <name>SettingsTab</name>
     <message>
         <source>Settings</source>
-        <translation>Configuraciones</translation>
+        <translation>设定</translation>
     </message>
     <message>
         <source>Digital Read Out</source>
-        <translation>Indicador digital</translation>
+        <translation>数字显示</translation>
     </message>
     <message>
         <source>Show offsets</source>
-        <translation>Mostrar contrarrestado</translation>
+        <translation>显示偏移</translation>
     </message>
     <message>
         <source>Show velocity</source>
-        <translation>Mostrar velocidad</translation>
+        <translation>显示速度</translation>
     </message>
     <message>
         <source>Show distance to go</source>
-        <translation>Mostrar distancia</translation>
+        <translation>显示走距</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Otro</translation>
+        <translation>其它</translation>
     </message>
     <message>
         <source>Enable preview</source>
-        <translation>Activar vista previa</translation>
+        <translation>启用预览</translation>
     </message>
     <message>
         <source>Maximum Velocity:</source>
-        <translation>Máxima velocidad:</translation>
+        <translation>最大速度:</translation>
     </message>
 </context>
 <context>
     <name>TemperatureControl</name>
     <message>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation>N/A无法提供</translation>
     </message>
 </context>
 <context>
     <name>ToggleSettingCheck</name>
     <message>
         <source>Group Value</source>
-        <translation type="vanished">group value</translation>
+        <translation type="vanished">群值</translation>
     </message>
 </context>
 <context>
     <name>VelocityExtrusionControl</name>
     <message>
-        <source>Velocity Extrusion</source>
-        <translation>Velocidad extrusión</translation>
-    </message>
-    <message>
         <source>Filament diameter:</source>
-        <translation>Filamento diametro:</translation>
+        <translation>材料直径:</translation>
     </message>
     <message>
         <source>Retract velocity:</source>
-        <translation>Velocidad de retracción:</translation>
+        <translation>退回速度:</translation>
     </message>
     <message>
         <source>Retract length:</source>
-        <translation>Longitud de retracción:</translation>
+        <translation>退回长度:</translation>
     </message>
     <message>
         <source>Extrude scale:</source>
-        <translation>Extrusor escala:</translation>
+        <translation>挤出比例:</translation>
     </message>
     <message>
         <source>Accel. adj. gain:</source>
-        <translation>Factor de acceleración:</translation>
+        <translation>加速，调整，取得:</translation>
+    </message>
+    <message>
+        <source>Velocity Extrusion</source>
+        <translation>挤出速度</translation>
     </message>
 </context>
 <context>
     <name>VideoTab</name>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>视频</translation>
     </message>
     <message>
         <source>Webcam not available</source>
-        <translation>Webcam no está disponible</translation>
+        <translation>网路摄像头不可用</translation>
     </message>
 </context>
 </TS>
