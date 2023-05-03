@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="es_ES">
+<TS version="2.1" language="pl_PL">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>About Machineface</source>
-        <translation>À propos de Machineface</translation>
+        <translation>Informacje dotyczące Machineface</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Fermer</translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -20,54 +20,54 @@
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation type="vanished">Déconnecter</translation>
+        <translation type="vanished">Rozłącz</translation>
     </message>
     <message>
         <source>Sh&amp;utdown</source>
-        <translation type="vanished">Arrêter</translation>
+        <translation type="vanished">Zamknij</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation type="vanished">Quitter</translation>
+        <translation type="vanished">Wyjdź</translation>
     </message>
     <message>
         <source>&amp;Disconnect from Session</source>
-        <translation>Déconnecter de la session</translation>
+        <translation>Rozłącz z sesji</translation>
     </message>
     <message>
         <source>&amp;About Machineface</source>
-        <translation>À propos de Machineface</translation>
+        <translation>Informacje dotyczące Machineface</translation>
     </message>
     <message>
         <source>Sh&amp;utdown Session</source>
-        <translation>Arrêter la session</translation>
+        <translation>Zamknij sesję</translation>
     </message>
     <message>
         <source>E&amp;xit User Interface</source>
-        <translation>Quitter interface utilisateur</translation>
+        <translation>Wyjdź z interfejsu użytkownika</translation>
     </message>
 </context>
 <context>
     <name>ButtonJog</name>
     <message>
         <source>Move </source>
-        <translation>Bouger </translation>
+        <translation>Przemieść </translation>
     </message>
     <message>
         <source> and </source>
-        <translation> et </translation>
+        <translation> i </translation>
     </message>
     <message>
         <source> axis to 0</source>
-        <translation> axe à 0</translation>
+        <translation> oś na 0</translation>
     </message>
     <message>
         <source>Select axis action</source>
-        <translation>Sélectionner action axe</translation>
+        <translation>Wybierz operację osi</translation>
     </message>
     <message>
         <source>Select Action</source>
-        <translation>Sélectionner action</translation>
+        <translation>Wybierz operację</translation>
     </message>
     <message>
         <source>Touch off </source>
@@ -75,46 +75,46 @@
     </message>
     <message>
         <source> axis</source>
-        <translation> axe</translation>
+        <translation> oś</translation>
     </message>
     <message>
         <source>Change extruder</source>
-        <translation>Changer extrudeuse</translation>
+        <translation>Zmień ekstruder</translation>
     </message>
     <message>
         <source>Select extruder</source>
-        <translation>Sélectionner extrudeuse</translation>
+        <translation>Wybierz ekstruder</translation>
     </message>
     <message>
         <source>Extruder </source>
-        <translation>Extrudeuse </translation>
+        <translation>Ekstruder </translation>
     </message>
     <message>
         <source>Velocity</source>
-        <translation>Vélocité</translation>
+        <translation>Prędkość</translation>
     </message>
 </context>
 <context>
     <name>DisplayPanel</name>
     <message>
         <source>Heated Bed</source>
-        <translation>Plateau chauffé</translation>
+        <translation>Podgrzewane łoże</translation>
     </message>
     <message>
         <source>Heated Chamber</source>
-        <translation>Enceinte chauffée</translation>
+        <translation>Podgrzewana komora</translation>
     </message>
     <message>
         <source>Extruder %1</source>
-        <translation>Extrudeuse %1</translation>
+        <translation>Ekstruder %1</translation>
     </message>
     <message>
         <source>Fan %1</source>
-        <translation>Ventilateur %1</translation>
+        <translation>Wentylator %1</translation>
     </message>
     <message>
         <source>Light %1</source>
-        <translation>Lumière %1</translation>
+        <translation>Światło %1</translation>
     </message>
 </context>
 <context>
@@ -128,39 +128,39 @@
     <name>GantryConfigControl</name>
     <message>
         <source>Left offset:</source>
-        <translation>Décalage gauche:</translation>
+        <translation>Offset lewostronny:</translation>
     </message>
     <message>
         <source>Right offset:</source>
-        <translation>Décalage droit:</translation>
+        <translation>Offset prawostronny:</translation>
     </message>
 </context>
 <context>
     <name>JogControlTab</name>
     <message>
         <source>Jog</source>
-        <translation>Jog</translation>
+        <translation>Pokrętło</translation>
     </message>
 </context>
 <context>
     <name>JogVelocityKnob</name>
     <message>
         <source>Set %1 axis velocity</source>
-        <translation>Ajuster velocité axe %1</translation>
+        <translation>Ustaw prędkość osi %1</translation>
     </message>
 </context>
 <context>
     <name>LightControl</name>
     <message>
         <source>Pick Color</source>
-        <translation>Sélectionner couleur</translation>
+        <translation>Wybierz kolor</translation>
     </message>
 </context>
 <context>
     <name>MdiTab</name>
     <message>
         <source>MDI</source>
-        <translation>Saisie manuelle (MDI)</translation>
+        <translation>Ręczne wprowadzanie danych (MDI)</translation>
     </message>
 </context>
 <context>
@@ -174,42 +174,42 @@
     <name>PreviewTab</name>
     <message>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>Podgląd</translation>
     </message>
 </context>
 <context>
     <name>SettingsTab</name>
     <message>
         <source>Settings</source>
-        <translation>Paramètres</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Digital Read Out</source>
-        <translation>Affichage numérique (DRO)</translation>
+        <translation>Odczyt cyfrowy (DRO)</translation>
     </message>
     <message>
         <source>Show offsets</source>
-        <translation>Afficher décalages</translation>
+        <translation>Pokaż offsety</translation>
     </message>
     <message>
         <source>Show velocity</source>
-        <translation>Afficher vélocité</translation>
+        <translation>Pokaż prędkość</translation>
     </message>
     <message>
         <source>Show distance to go</source>
-        <translation>Afficher distance restante</translation>
+        <translation>Pokaż odległość do pokonania</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Autre</translation>
+        <translation>Inny</translation>
     </message>
     <message>
         <source>Enable preview</source>
-        <translation>Activer aperçu</translation>
+        <translation>Podgląd aktywny</translation>
     </message>
     <message>
         <source>Maximum Velocity:</source>
-        <translation>Vélocité max:</translation>
+        <translation>Prędkość maks:</translation>
     </message>
 </context>
 <context>
@@ -223,45 +223,45 @@
     <name>ToggleSettingCheck</name>
     <message>
         <source>Group Value</source>
-        <translation type="vanished">Group value</translation>
+        <translation type="vanished">Wartość grupy</translation>
     </message>
 </context>
 <context>
     <name>VelocityExtrusionControl</name>
     <message>
         <source>Velocity Extrusion</source>
-        <translation>Vélocité extrusion</translation>
+        <translation>Prędkość wytłaczania</translation>
     </message>
     <message>
         <source>Filament diameter:</source>
-        <translation>Diamètre filament:</translation>
+        <translation>Średnica filamentu:</translation>
     </message>
     <message>
         <source>Retract velocity:</source>
-        <translation>Vélocité retrait:</translation>
+        <translation>Prędkość wycofania:</translation>
     </message>
     <message>
         <source>Retract length:</source>
-        <translation>Distance retrait:</translation>
+        <translation>Odległość wycofania:</translation>
     </message>
     <message>
         <source>Extrude scale:</source>
-        <translation>Échelle extrusion:</translation>
+        <translation>Skala wytłaczania:</translation>
     </message>
     <message>
         <source>Accel. adj. gain:</source>
-        <translation>Ajustage gain accélération:</translation>
+        <translation>Współczynnik przyspieszenia:</translation>
     </message>
 </context>
 <context>
     <name>VideoTab</name>
     <message>
         <source>Video</source>
-        <translation>Vidéo</translation>
+        <translation>Wideo</translation>
     </message>
     <message>
         <source>Webcam not available</source>
-        <translation>Webcam non disponible</translation>
+        <translation>Kamera niedostępna</translation>
     </message>
 </context>
 </TS>
